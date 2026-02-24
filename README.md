@@ -1,16 +1,38 @@
-# flutter_application_1
+# BÀI TẬP LỚN CUỐI KỲ
 
-A new Flutter project.
+## Môn học:
+Lập trình cho thiết bị di động
 
-## Getting Started
+## Tên đề tài:
+Plans and Life – Ứng dụng quản lý kế hoạch chi tiêu cá nhân
 
-This project is a starting point for a Flutter application.
+## Nhóm 26 – N02
 
-A few resources to get you started if this is your first Flutter project:
+### Thành viên:
+- Phạm Ngọc Đức – MSSV: 23010074
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Giảng viên hướng dẫn:
+Nguyễn Xuân Quế
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Ngày Tháng Năm:
+24/02/2026
+
+---
+
+## Mô tả ứng dụng
+
+Ứng dụng giúp người dùng:
+- Lập kế hoạch chi tiêu hợp lý
+- Thống kê bằng biểu đồ
+- Hỗ trợ 2 ngôn ngữ: Tiếng Việt và Tiếng Anh
+- Giao diện thân thiện, hiện đại
+
+---
+
+## Công nghệ sử dụng
+
+- Flutter
+- Dart
+- Material Design
+
+---
